@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e0e9dde-4866-4de1-bcf1-c93a813dcff1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
@@ -42,9 +41,10 @@
       <module name="dummy" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
-      <kind value="FILE" />
+      <kind value="DIRECTORY" />
       <filePath value="$PROJECT_DIR$/main.go" />
       <package value="$PROJECT_DIR$/" />
+      <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
   </component>
@@ -56,25 +56,41 @@
       <screen x="67" y="31" width="1853" height="1049" />
     </state>
     <state x="447" y="205" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.31.1853.1049@67.31.1853.1049" timestamp="1580805790396" />
-    <state x="617" y="125" width="742" height="858" key="#go_build_/home/shivampradhan/go/src/dummy/" timestamp="1580805811587">
+    <state x="617" y="125" width="742" height="858" key="#go_build_/home/shivampradhan/go/src/dummy/" timestamp="1580811891668">
       <screen x="67" y="31" width="1853" height="1049" />
     </state>
-    <state x="617" y="125" width="742" height="858" key="#go_build_/home/shivampradhan/go/src/dummy//67.31.1853.1049@67.31.1853.1049" timestamp="1580805811587" />
-    <state width="1853" height="273" key="GridCell.Tab.0.bottom" timestamp="1580805853169">
+    <state x="617" y="125" width="742" height="858" key="#go_build_/home/shivampradhan/go/src/dummy//67.31.1853.1049@67.31.1853.1049" timestamp="1580811891668" />
+    <state width="1853" height="339" key="GridCell.Tab.0.bottom" timestamp="1580812281572">
       <screen x="67" y="31" width="1853" height="1049" />
     </state>
-    <state width="1853" height="273" key="GridCell.Tab.0.bottom/67.31.1853.1049@67.31.1853.1049" timestamp="1580805853169" />
-    <state width="1853" height="273" key="GridCell.Tab.0.center" timestamp="1580805853168">
+    <state width="1853" height="339" key="GridCell.Tab.0.bottom/67.31.1853.1049@67.31.1853.1049" timestamp="1580812281572" />
+    <state width="1853" height="339" key="GridCell.Tab.0.center" timestamp="1580812281572">
       <screen x="67" y="31" width="1853" height="1049" />
     </state>
-    <state width="1853" height="273" key="GridCell.Tab.0.center/67.31.1853.1049@67.31.1853.1049" timestamp="1580805853168" />
-    <state width="1853" height="273" key="GridCell.Tab.0.left" timestamp="1580805853168">
+    <state width="1853" height="339" key="GridCell.Tab.0.center/67.31.1853.1049@67.31.1853.1049" timestamp="1580812281572" />
+    <state width="1853" height="339" key="GridCell.Tab.0.left" timestamp="1580812281572">
       <screen x="67" y="31" width="1853" height="1049" />
     </state>
-    <state width="1853" height="273" key="GridCell.Tab.0.left/67.31.1853.1049@67.31.1853.1049" timestamp="1580805853168" />
-    <state width="1853" height="273" key="GridCell.Tab.0.right" timestamp="1580805853169">
+    <state width="1853" height="339" key="GridCell.Tab.0.left/67.31.1853.1049@67.31.1853.1049" timestamp="1580812281572" />
+    <state width="1853" height="339" key="GridCell.Tab.0.right" timestamp="1580812281572">
       <screen x="67" y="31" width="1853" height="1049" />
     </state>
-    <state width="1853" height="273" key="GridCell.Tab.0.right/67.31.1853.1049@67.31.1853.1049" timestamp="1580805853169" />
+    <state width="1853" height="339" key="GridCell.Tab.0.right/67.31.1853.1049@67.31.1853.1049" timestamp="1580812281572" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main.go</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main.go</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
